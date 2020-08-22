@@ -1,7 +1,7 @@
 # JRNY
 A simple CLI tool for journaling.
 
-![Example][https://github.com/DetonDev/jrny/blob/master/imgs/example1.png]
+![Example][https://raw.githubusercontent.com/DetonDev/jrny/master/imgs/example1.png]
 
 ## usage
 Before using, create `~/.config/jrny/config.ini`(Replace `~/.config/` with your XDG config location if necessary.)
